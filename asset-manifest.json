@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coinapi/static/css/main.aaaf15db.css",
+    "main.js": "/coinapi/static/js/main.d45f4d93.js",
+    "index.html": "/coinapi/index.html",
+    "main.aaaf15db.css.map": "/coinapi/static/css/main.aaaf15db.css.map",
+    "main.d45f4d93.js.map": "/coinapi/static/js/main.d45f4d93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf15db.css",
+    "static/js/main.d45f4d93.js"
+  ]
+}
