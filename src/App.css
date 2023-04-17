@@ -1,38 +1,14 @@
-.App {
-  text-align: center;
+.dark {
+  background-image: url("https://cdn.wallpapersafari.com/37/84/OlGR8c.jpg");
+  background-size: contain;
+  background-blend-mode: multiply;
+  background-color: rgba(1, 0, 3, 0.493);
+  color: aliceblue;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.light {
+  background-image: url("https://img.freepik.com/premium-photo/white-bitcoin-cryptocurrency-coin-against-grey-background-d-rendering_601748-3477.jpg");
+  background-size: contain;
+  background-color: rgba(255, 250, 250, 0.705);
+  background-blend-mode: multiply;
+  color: black;
 }
